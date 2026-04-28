@@ -10,10 +10,3 @@
 7.25   
 sunrise
 ```
-
-## Компиляция и запуск
-
-```bash
-g++ overload.cpp -o overload
-./overload
-```
