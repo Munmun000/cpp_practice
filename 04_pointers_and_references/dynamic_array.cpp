@@ -1,3 +1,5 @@
+// Создание, заполнение и удаление динамического массива
+
 #include <iostream>
 using std::cout, std::cin, std::endl;
 
